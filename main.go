@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"project-euler/problems"
+)
 
 func main() {
-	fmt.Println("This is project euler!")
+	problems.Prob1()
 }
